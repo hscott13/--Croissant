@@ -1,11 +1,11 @@
 body {
   text-align: center;
-  color: blueviolet;
-  background: rgba(209, 73, 179, 0.5);
+  color: white;
+  background: rgb(232, 191, 103);
   margin-top: 15px;
 }
 h1 {
-  color: black;
+  color: gold;
 }
 
 a {
@@ -16,7 +16,15 @@ a {
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 700;
+  margin: 2em;
 }
 img {
   margin: 10px;
+  border-radius: 5px;
+}
+
+.email {
+  border: none;
+  text-decoration: underline;
+  display: block;
 }
