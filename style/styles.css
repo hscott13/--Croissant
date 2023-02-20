@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  color: blueviolet;
+  background: rgba(209, 73, 179, 0.5);
+  margin-top: 15px;
+}
+h1 {
+  color: black;
+}
+
+a {
+  border: solid 2px white;
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+img {
+  margin: 10px;
+}
